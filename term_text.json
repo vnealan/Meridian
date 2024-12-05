@@ -1,0 +1,186 @@
+{
+    "transactions": [
+      {
+        "date": "2024-11-01",
+        "amount": -156.89,
+        "merchant": "WALGREENS PHARMACY #1234",
+        "category": "Healthcare",
+        "termText": "Prescription pickup - Cymbalta (Duloxetine) 30 day supply"
+      },
+      {
+        "date": "2024-11-01",
+        "amount": -42.50,
+        "merchant": "WHOLE FOODS MARKET",
+        "category": "Groceries",
+        "termText": "High protein foods for Cymbalta - yogurt, chicken, quinoa"
+      },
+      {
+        "date": "2024-11-03",
+        "amount": -89.99,
+        "merchant": "CVS PHARMACY #5678",
+        "category": "Healthcare",
+        "termText": "Prescription - Provigil (Modafinil) refill"
+      },
+      {
+        "date": "2024-11-03",
+        "amount": -18.75,
+        "merchant": "STARBUCKS",
+        "category": "Food",
+        "termText": "Note: Reduced caffeine intake due to Provigil interaction"
+      },
+      {
+        "date": "2024-11-05",
+        "amount": -78.45,
+        "merchant": "RITE AID PHARMACY",
+        "category": "Healthcare",
+        "termText": "Prescription - Elavil (Amitriptyline) monthly supply"
+      },
+      {
+        "date": "2024-11-05",
+        "amount": -65.23,
+        "merchant": "TRADER JOE'S",
+        "category": "Groceries",
+        "termText": "Low tyramine foods for Elavil - fresh fruits, rice, fresh meats"
+      },
+      {
+        "date": "2024-11-07",
+        "amount": -32.99,
+        "merchant": "GNC",
+        "category": "Healthcare",
+        "termText": "Vitamin D3 and B12 supplements"
+      },
+      {
+        "date": "2024-11-08",
+        "amount": -28.75,
+        "merchant": "LOCAL JUICE BAR",
+        "category": "Food",
+        "termText": "Avoid grapefruit juice - interacts with Cymbalta and Elavil"
+      },
+      {
+        "date": "2024-11-10",
+        "amount": -89.50,
+        "merchant": "SPROUTS FARMERS MARKET",
+        "category": "Groceries",
+        "termText": "Iron-rich foods for morning supplements - spinach, lean beef, legumes"
+      },
+      {
+        "date": "2024-11-12",
+        "amount": -45.99,
+        "merchant": "VITAMIN SHOPPE",
+        "category": "Healthcare",
+        "termText": "Magnesium Glycinate supplement"
+      },
+      {
+        "date": "2024-11-15",
+        "amount": -112.34,
+        "merchant": "SAFEWAY",
+        "category": "Groceries",
+        "termText": "Avoiding aged cheeses and fermented foods due to Elavil interaction"
+      },
+      {
+        "date": "2024-11-17",
+        "amount": -25.99,
+        "merchant": "SMOOTHIE KING",
+        "category": "Food",
+        "termText": "Morning protein smoothie - 2hrs after Iron supplement"
+      },
+      {
+        "date": "2024-11-20",
+        "amount": -156.78,
+        "merchant": "COSTCO PHARMACY",
+        "category": "Healthcare",
+        "termText": "90-day supply Duloxetine (Cymbalta)"
+      },
+      {
+        "date": "2024-11-22",
+        "amount": -34.56,
+        "merchant": "HEALTH FOOD STORE",
+        "category": "Groceries",
+        "termText": "Calcium-rich foods - separate timing from Iron supplement"
+      },
+      {
+        "date": "2024-11-25",
+        "amount": -92.45,
+        "merchant": "WALMART PHARMACY",
+        "category": "Healthcare",
+        "termText": "Refill Provigil (Modafinil) - 30 day supply"
+      },
+      {
+        "date": "2024-11-27",
+        "amount": -45.67,
+        "merchant": "ORGANIC MARKET",
+        "category": "Groceries",
+        "termText": "Fresh produce and protein for medication timing"
+      },
+      {
+        "date": "2024-11-30",
+        "amount": -128.90,
+        "merchant": "CVS PHARMACY",
+        "category": "Healthcare",
+        "termText": "Elavil (Amitriptyline) refill + supplements"
+      },
+      {
+        "date": "2024-12-01",
+        "amount": -67.89,
+        "merchant": "KROGER",
+        "category": "Groceries",
+        "termText": "Low-tyramine diet foods for medication compliance"
+      },
+      {
+        "date": "2024-12-03",
+        "amount": -22.45,
+        "merchant": "PANERA BREAD",
+        "category": "Food",
+        "termText": "Lunch - timing around Provigil morning dose"
+      },
+      {
+        "date": "2024-12-04",
+        "amount": -145.67,
+        "merchant": "WALGREENS PHARMACY",
+        "category": "Healthcare",
+        "termText": "Monthly Cymbalta (Duloxetine) prescription"
+      },
+      {
+        "date": "2024-12-05",
+        "amount": -56.78,
+        "merchant": "WHOLE FOODS",
+        "category": "Groceries",
+        "termText": "Protein-rich foods for medication absorption"
+      },
+      {
+        "date": "2024-12-06",
+        "amount": -34.56,
+        "merchant": "VITAMIN WORLD",
+        "category": "Healthcare",
+        "termText": "B12 and Iron supplement refill"
+      },
+      {
+        "date": "2024-12-07",
+        "amount": -78.90,
+        "merchant": "NATURAL GROCERS",
+        "category": "Groceries",
+        "termText": "Foods compatible with evening Magnesium supplement"
+      },
+      {
+        "date": "2024-12-08",
+        "amount": -19.99,
+        "merchant": "JAMBA JUICE",
+        "category": "Food",
+        "termText": "No grapefruit smoothie due to medication interactions"
+      },
+      {
+        "date": "2024-12-09",
+        "amount": -167.89,
+        "merchant": "RITE AID",
+        "category": "Healthcare",
+        "termText": "Modafinil refill and vitamin D3 supplement"
+      },
+      {
+        "date": "2024-12-10",
+        "amount": -45.67,
+        "merchant": "TRADER JOE'S",
+        "category": "Groceries",
+        "termText": "Fresh foods for medication timing and interactions"
+      }
+    ]
+  }

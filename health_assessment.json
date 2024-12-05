@@ -1,0 +1,192 @@
+{
+    "personalInfo": {
+      "age": 34,
+      "gender": "Male",
+      "height": 180,
+      "weight": 78.5
+    },
+    "dexaScan": {
+      "totalBodyFatPercentage": 18.2,
+      "leanMass": 61.4,
+      "fatMass": 13.6,
+      "boneMineralDensity": 1.22,
+      "visceralFat": 82.3,
+      "regionаlData": {
+        "trunk": {
+          "fatPercentage": 19.1,
+          "leanMass": 28.2
+        },
+        "legs": {
+          "fatPercentage": 16.8,
+          "leanMass": 21.3,
+          "asymmetry": {
+            "right": 10.8,
+            "left": 10.5
+          }
+        },
+        "arms": {
+          "fatPercentage": 15.4,
+          "leanMass": 7.8,
+          "asymmetry": {
+            "right": 4.0,
+            "left": 3.8
+          }
+        }
+      }
+    },
+    "vo2MaxTest": {
+      "maxVO2": 48.5,
+      "anaerobicThreshold": 42.3,
+      "maxHeartRate": 188,
+      "recoveryRate": 32,
+      "ventillatoryThreshold": {
+        "vt1": 135,
+        "vt2": 168
+      },
+      "maxSpeed": 16.5,
+      "timeToExhaustion": 12.3
+    },
+    "dietAssessment": {
+      "averageDailyIntake": {
+        "calories": 2450,
+        "protein": 125,
+        "carbohydrates": 285,
+        "fat": 82,
+        "fiber": 28
+      },
+      "mealTiming": {
+        "breakfast": "07:30",
+        "lunch": "12:45",
+        "dinner": "19:15",
+        "snacks": 2
+      },
+      "hydration": {
+        "waterIntake": 2.8,
+        "caffeineIntake": 240
+      },
+      "recommendedChanges": [
+        "Increase protein intake to 150g daily",
+        "Add one serving of leafy greens to lunch",
+        "Reduce processed carbohydrate intake by 20%",
+        "Move dinner earlier to improve sleep quality"
+      ]
+    },
+    "physioAssessment": {
+      "functionalMovementScreen": {
+        "deepSquat": 2,
+        "hurdle": 3,
+        "inlineLunge": 2,
+        "shoulderMobility": 3,
+        "activeStraightLegRaise": 2,
+        "trunkStability": 3,
+        "rotaryStability": 2,
+        "total": 17
+      },
+      "runningGait": {
+        "footStrike": "midfoot",
+        "pronation": "neutral",
+        "cadence": 172,
+        "verticalOscillation": 8.2,
+        "groundContactTime": 245
+      },
+      "vulnerabilities": [
+        "Minor right hip mobility limitation",
+        "Slight anterior pelvic tilt",
+        "Lower trap weakness"
+      ],
+      "recommendations": [
+        "Hip mobility exercises",
+        "Core stability work",
+        "Upper back strengthening"
+      ]
+    },
+    "strengthAssessment": {
+      "squat": {
+        "oneRepMax": 120,
+        "form": "good",
+        "limitingFactors": "hip mobility"
+      },
+      "deadlift": {
+        "oneRepMax": 140,
+        "form": "excellent",
+        "limitingFactors": "none"
+      },
+      "benchPress": {
+        "oneRepMax": 95,
+        "form": "good",
+        "limitingFactors": "shoulder stability"
+      },
+      "pullUps": {
+        "maxReps": 12,
+        "form": "good",
+        "limitingFactors": "grip strength"
+      }
+    },
+    "mindsetAssessment": {
+      "goalOrientation": {
+        "processScore": 8.2,
+        "outcomeScore": 7.4,
+        "learningStyle": "active experimentation"
+      },
+      "habits": {
+        "sleepRoutine": 7.5,
+        "exerciseConsistency": 8.0,
+        "nutritionAwareness": 6.5,
+        "stressManagement": 6.0
+      },
+      "motivationFactors": [
+        "Health longevity",
+        "Athletic performance",
+        "Mental clarity",
+        "Stress management"
+      ]
+    },
+    "bloodPanel": {
+      "lipids": {
+        "totalCholesterol": 4.8,
+        "hdl": 1.4,
+        "ldl": 2.8,
+        "triglycerides": 1.1
+      },
+      "hormones": {
+        "totalTestosterone": 22.4,
+        "freeTestosterone": 428,
+        "estradiol": 89,
+        "cortisol": 380,
+        "thyroidFunction": {
+          "tsh": 2.1,
+          "t4": 15.2,
+          "t3": 4.8
+        }
+      },
+      "glycemicControl": {
+        "fastingGlucose": 5.1,
+        "hba1c": 5.2,
+        "fastingInsulin": 6.2
+      },
+      "organFunction": {
+        "kidney": {
+          "creatinine": 82,
+          "egfr": 98
+        },
+        "liver": {
+          "alt": 25,
+          "ast": 23,
+          "ggt": 28
+        }
+      },
+      "vitaminsAndMinerals": {
+        "vitaminD": 75,
+        "vitaminB12": 380,
+        "ferritin": 120,
+        "magnesium": 0.85,
+        "zinc": 14.2
+      },
+      "electrolytes": {
+        "sodium": 140,
+        "potassium": 4.2,
+        "chloride": 102,
+        "bicarbonate": 24
+      }
+    }
+  }

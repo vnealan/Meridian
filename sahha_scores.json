@@ -1,0 +1,2025 @@
+[
+    {
+        "id": "31ba2854-48a1-4bff-b4ac-1b82069e9f97",
+        "requestId": "26ed2bc5-d9cb-46be-968e-016d6eb1375c",
+        "profileId": "a6767532-713d-5736-8b54-13b586429273",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "wellbeing",
+        "score": 0.9,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "49e65833-7b6e-5ba8-a4dc-32b7c0359f86",
+                "name": "steps",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "count",
+                "value": 5962.0
+            },
+            {
+                "goal": 10,
+                "id": "dab7f66b-403e-5255-b876-33d3459012ab",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 11.0
+            },
+            {
+                "goal": 500,
+                "id": "fec5f8b0-b910-5bf8-a364-1789d08752ff",
+                "name": "active_calories",
+                "score": 0.32,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 94.0
+            },
+            {
+                "goal": 30,
+                "id": "0f1d2c0c-f978-54a8-8804-8abb195a8851",
+                "name": "intense_activity_duration",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "6be65a70-5679-5885-ba0f-bdffd8f59cb7",
+                "name": "extended_inactivity",
+                "score": 0.54,
+                "state": "high",
+                "unit": "minute",
+                "value": 453.0
+            },
+            {
+                "goal": 10,
+                "id": "8aec57eb-c5ad-5b45-abaf-c29f94828572",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "9101caf0-48bf-547e-8744-01e624273304",
+                "name": "sleep_duration",
+                "score": 0.88,
+                "state": "high",
+                "unit": "minute",
+                "value": 432.0
+            },
+            {
+                "goal": 1,
+                "id": "c6e48486-e6cc-5548-b16d-23003934b243",
+                "name": "sleep_regularity",
+                "score": 0.91,
+                "state": "high",
+                "unit": "index",
+                "value": 0.909
+            },
+            {
+                "goal": 10,
+                "id": "20667c2e-39b3-5138-a81c-8154f7edab8e",
+                "name": "sleep_continuity",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "minute",
+                "value": 38.0
+            },
+            {
+                "goal": 0,
+                "id": "d9602740-c3e0-5a7a-bf68-06757902ffde",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "af76a519-a1d0-5133-8f40-87baedd2363e",
+                "name": "circadian_alignment",
+                "score": 0.47,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 433.6833333333
+            },
+            {
+                "goal": 90,
+                "id": "9145b4e5-ea1b-569c-8cc8-4e8a1c5f310c",
+                "name": "physical_recovery",
+                "score": 1.0,
+                "state": "high",
+                "unit": "minute",
+                "value": 107.0
+            },
+            {
+                "goal": 120,
+                "id": "315b8748-68a1-5bb0-9f2e-709bff476c4a",
+                "name": "mental_recovery",
+                "score": 0.9,
+                "state": "high",
+                "unit": "minute",
+                "value": 103.0
+            }
+        ],
+        "dataSources": [
+            "activity",
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-01T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.440Z",
+        "version": 1.0
+    },
+    {
+        "id": "14c92c3a-3970-41f0-a146-aea7c13bb8ac",
+        "requestId": "93218185-2c62-45f6-9de0-4385dc0fcd66",
+        "profileId": "c972f033-d749-522d-921c-813f616386b2",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "activity",
+        "score": 0.66,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "d97a8f32-3abc-5e3f-a868-50d95edb5c7f",
+                "name": "steps",
+                "score": 0.7,
+                "state": "low",
+                "unit": "count",
+                "value": 3908.0
+            },
+            {
+                "goal": 10,
+                "id": "2e0ab928-1796-58b4-86d1-4d2f8b638eed",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 10.0
+            },
+            {
+                "goal": 500,
+                "id": "ce66827a-40ad-52bd-aa84-19db9ab8b681",
+                "name": "active_calories",
+                "score": 0.29,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 80.0
+            },
+            {
+                "goal": 30,
+                "id": "d0ab4338-e5b3-580e-b038-6b4044918387",
+                "name": "intense_activity_duration",
+                "score": 0.3,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 0.0
+            },
+            {
+                "goal": 480,
+                "id": "342eb7c7-f243-5c56-b5e3-b6e4b33ef2bd",
+                "name": "extended_inactivity",
+                "score": 1.0,
+                "state": "medium",
+                "unit": "minute",
+                "value": 791.0
+            },
+            {
+                "goal": 10,
+                "id": "959ef97c-e97a-576a-a5eb-f3059d24dd89",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "activity"
+        ],
+        "scoreDateTime": "2024-06-01T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.437Z",
+        "version": 1.0
+    },
+    {
+        "id": "998b4ce5-95a4-4104-9442-cb3623da0799",
+        "requestId": "f0b0b5fa-2ee3-4677-b341-a93c1d74492f",
+        "profileId": "b36e89b1-6762-5e70-9c88-742359efd55c",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "sleep",
+        "score": 0.97,
+        "state": "high",
+        "factors": [
+            {
+                "goal": 480,
+                "id": "b04c4d4c-03aa-5cb6-94dd-92d9aa617474",
+                "name": "sleep_duration",
+                "score": 0.99,
+                "state": "high",
+                "unit": "minute",
+                "value": 470.0
+            },
+            {
+                "goal": 1,
+                "id": "038dd698-1b5d-5f8b-a67b-0d68191b3f04",
+                "name": "sleep_regularity",
+                "score": 1.0,
+                "state": "high",
+                "unit": "index",
+                "value": 0.999
+            },
+            {
+                "goal": 10,
+                "id": "212b54b4-6578-5f35-b82a-b07d4cfb19c3",
+                "name": "sleep_continuity",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 0,
+                "id": "cf25f013-48fc-585f-b0eb-693d5a679a27",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "95362056-cf6d-5855-a530-9fe5bc0d721f",
+                "name": "circadian_alignment",
+                "score": 0.82,
+                "state": "medium",
+                "unit": "minute",
+                "value": 112.0
+            },
+            {
+                "goal": 90,
+                "id": "fa2e3a21-3031-5483-8db4-360d901d1eb4",
+                "name": "physical_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 120,
+                "id": "bfb8dbbc-1c54-5e12-9da6-7cf86dd8055e",
+                "name": "mental_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-01T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.687Z",
+        "version": 1.0
+    },
+    {
+        "id": "8e677fff-baaf-4bc9-b452-b6922e9357f6",
+        "requestId": "26ed2bc5-d9cb-46be-968e-016d6eb1375c",
+        "profileId": "a6767532-713d-5736-8b54-13b586429273",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "wellbeing",
+        "score": 0.79,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "49e65833-7b6e-5ba8-a4dc-32b7c0359f86",
+                "name": "steps",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "count",
+                "value": 5962.0
+            },
+            {
+                "goal": 10,
+                "id": "dab7f66b-403e-5255-b876-33d3459012ab",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 11.0
+            },
+            {
+                "goal": 500,
+                "id": "fec5f8b0-b910-5bf8-a364-1789d08752ff",
+                "name": "active_calories",
+                "score": 0.32,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 94.0
+            },
+            {
+                "goal": 30,
+                "id": "0f1d2c0c-f978-54a8-8804-8abb195a8851",
+                "name": "intense_activity_duration",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "6be65a70-5679-5885-ba0f-bdffd8f59cb7",
+                "name": "extended_inactivity",
+                "score": 0.54,
+                "state": "high",
+                "unit": "minute",
+                "value": 453.0
+            },
+            {
+                "goal": 10,
+                "id": "8aec57eb-c5ad-5b45-abaf-c29f94828572",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "9101caf0-48bf-547e-8744-01e624273304",
+                "name": "sleep_duration",
+                "score": 0.88,
+                "state": "high",
+                "unit": "minute",
+                "value": 432.0
+            },
+            {
+                "goal": 1,
+                "id": "c6e48486-e6cc-5548-b16d-23003934b243",
+                "name": "sleep_regularity",
+                "score": 0.91,
+                "state": "high",
+                "unit": "index",
+                "value": 0.909
+            },
+            {
+                "goal": 10,
+                "id": "20667c2e-39b3-5138-a81c-8154f7edab8e",
+                "name": "sleep_continuity",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "minute",
+                "value": 38.0
+            },
+            {
+                "goal": 0,
+                "id": "d9602740-c3e0-5a7a-bf68-06757902ffde",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "af76a519-a1d0-5133-8f40-87baedd2363e",
+                "name": "circadian_alignment",
+                "score": 0.47,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 433.6833333333
+            },
+            {
+                "goal": 90,
+                "id": "9145b4e5-ea1b-569c-8cc8-4e8a1c5f310c",
+                "name": "physical_recovery",
+                "score": 1.0,
+                "state": "high",
+                "unit": "minute",
+                "value": 107.0
+            },
+            {
+                "goal": 120,
+                "id": "315b8748-68a1-5bb0-9f2e-709bff476c4a",
+                "name": "mental_recovery",
+                "score": 0.9,
+                "state": "high",
+                "unit": "minute",
+                "value": 103.0
+            }
+        ],
+        "dataSources": [
+            "activity",
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-02T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.440Z",
+        "version": 1.0
+    },
+    {
+        "id": "eef3c9f7-0d1c-44f8-886f-93c86f6c693c",
+        "requestId": "93218185-2c62-45f6-9de0-4385dc0fcd66",
+        "profileId": "c972f033-d749-522d-921c-813f616386b2",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "activity",
+        "score": 0.66,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "d97a8f32-3abc-5e3f-a868-50d95edb5c7f",
+                "name": "steps",
+                "score": 0.7,
+                "state": "low",
+                "unit": "count",
+                "value": 3908.0
+            },
+            {
+                "goal": 10,
+                "id": "2e0ab928-1796-58b4-86d1-4d2f8b638eed",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 10.0
+            },
+            {
+                "goal": 500,
+                "id": "ce66827a-40ad-52bd-aa84-19db9ab8b681",
+                "name": "active_calories",
+                "score": 0.29,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 80.0
+            },
+            {
+                "goal": 30,
+                "id": "d0ab4338-e5b3-580e-b038-6b4044918387",
+                "name": "intense_activity_duration",
+                "score": 0.3,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 0.0
+            },
+            {
+                "goal": 480,
+                "id": "342eb7c7-f243-5c56-b5e3-b6e4b33ef2bd",
+                "name": "extended_inactivity",
+                "score": 1.0,
+                "state": "medium",
+                "unit": "minute",
+                "value": 791.0
+            },
+            {
+                "goal": 10,
+                "id": "959ef97c-e97a-576a-a5eb-f3059d24dd89",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "activity"
+        ],
+        "scoreDateTime": "2024-06-02T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.437Z",
+        "version": 1.0
+    },
+    {
+        "id": "161daacd-6722-43ca-9f88-5600703d1718",
+        "requestId": "f0b0b5fa-2ee3-4677-b341-a93c1d74492f",
+        "profileId": "b36e89b1-6762-5e70-9c88-742359efd55c",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "sleep",
+        "score": 0.97,
+        "state": "high",
+        "factors": [
+            {
+                "goal": 480,
+                "id": "b04c4d4c-03aa-5cb6-94dd-92d9aa617474",
+                "name": "sleep_duration",
+                "score": 0.99,
+                "state": "high",
+                "unit": "minute",
+                "value": 470.0
+            },
+            {
+                "goal": 1,
+                "id": "038dd698-1b5d-5f8b-a67b-0d68191b3f04",
+                "name": "sleep_regularity",
+                "score": 1.0,
+                "state": "high",
+                "unit": "index",
+                "value": 0.999
+            },
+            {
+                "goal": 10,
+                "id": "212b54b4-6578-5f35-b82a-b07d4cfb19c3",
+                "name": "sleep_continuity",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 0,
+                "id": "cf25f013-48fc-585f-b0eb-693d5a679a27",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "95362056-cf6d-5855-a530-9fe5bc0d721f",
+                "name": "circadian_alignment",
+                "score": 0.82,
+                "state": "medium",
+                "unit": "minute",
+                "value": 112.0
+            },
+            {
+                "goal": 90,
+                "id": "fa2e3a21-3031-5483-8db4-360d901d1eb4",
+                "name": "physical_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 120,
+                "id": "bfb8dbbc-1c54-5e12-9da6-7cf86dd8055e",
+                "name": "mental_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-02T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.687Z",
+        "version": 1.0
+    },
+    {
+        "id": "b9c2fe19-4051-4161-b837-5b53508dd5e9",
+        "requestId": "26ed2bc5-d9cb-46be-968e-016d6eb1375c",
+        "profileId": "a6767532-713d-5736-8b54-13b586429273",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "wellbeing",
+        "score": 0.79,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "49e65833-7b6e-5ba8-a4dc-32b7c0359f86",
+                "name": "steps",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "count",
+                "value": 5962.0
+            },
+            {
+                "goal": 10,
+                "id": "dab7f66b-403e-5255-b876-33d3459012ab",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 11.0
+            },
+            {
+                "goal": 500,
+                "id": "fec5f8b0-b910-5bf8-a364-1789d08752ff",
+                "name": "active_calories",
+                "score": 0.32,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 94.0
+            },
+            {
+                "goal": 30,
+                "id": "0f1d2c0c-f978-54a8-8804-8abb195a8851",
+                "name": "intense_activity_duration",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "6be65a70-5679-5885-ba0f-bdffd8f59cb7",
+                "name": "extended_inactivity",
+                "score": 0.54,
+                "state": "high",
+                "unit": "minute",
+                "value": 453.0
+            },
+            {
+                "goal": 10,
+                "id": "8aec57eb-c5ad-5b45-abaf-c29f94828572",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "9101caf0-48bf-547e-8744-01e624273304",
+                "name": "sleep_duration",
+                "score": 0.88,
+                "state": "high",
+                "unit": "minute",
+                "value": 432.0
+            },
+            {
+                "goal": 1,
+                "id": "c6e48486-e6cc-5548-b16d-23003934b243",
+                "name": "sleep_regularity",
+                "score": 0.91,
+                "state": "high",
+                "unit": "index",
+                "value": 0.909
+            },
+            {
+                "goal": 10,
+                "id": "20667c2e-39b3-5138-a81c-8154f7edab8e",
+                "name": "sleep_continuity",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "minute",
+                "value": 38.0
+            },
+            {
+                "goal": 0,
+                "id": "d9602740-c3e0-5a7a-bf68-06757902ffde",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "af76a519-a1d0-5133-8f40-87baedd2363e",
+                "name": "circadian_alignment",
+                "score": 0.47,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 433.6833333333
+            },
+            {
+                "goal": 90,
+                "id": "9145b4e5-ea1b-569c-8cc8-4e8a1c5f310c",
+                "name": "physical_recovery",
+                "score": 1.0,
+                "state": "high",
+                "unit": "minute",
+                "value": 107.0
+            },
+            {
+                "goal": 120,
+                "id": "315b8748-68a1-5bb0-9f2e-709bff476c4a",
+                "name": "mental_recovery",
+                "score": 0.9,
+                "state": "high",
+                "unit": "minute",
+                "value": 103.0
+            }
+        ],
+        "dataSources": [
+            "activity",
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-03T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.440Z",
+        "version": 1.0
+    },
+    {
+        "id": "ae08a362-d9a2-4a77-bd06-89f4e46b8b90",
+        "requestId": "93218185-2c62-45f6-9de0-4385dc0fcd66",
+        "profileId": "c972f033-d749-522d-921c-813f616386b2",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "activity",
+        "score": 0.66,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "d97a8f32-3abc-5e3f-a868-50d95edb5c7f",
+                "name": "steps",
+                "score": 0.7,
+                "state": "low",
+                "unit": "count",
+                "value": 3908.0
+            },
+            {
+                "goal": 10,
+                "id": "2e0ab928-1796-58b4-86d1-4d2f8b638eed",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 10.0
+            },
+            {
+                "goal": 500,
+                "id": "ce66827a-40ad-52bd-aa84-19db9ab8b681",
+                "name": "active_calories",
+                "score": 0.29,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 80.0
+            },
+            {
+                "goal": 30,
+                "id": "d0ab4338-e5b3-580e-b038-6b4044918387",
+                "name": "intense_activity_duration",
+                "score": 0.3,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 0.0
+            },
+            {
+                "goal": 480,
+                "id": "342eb7c7-f243-5c56-b5e3-b6e4b33ef2bd",
+                "name": "extended_inactivity",
+                "score": 1.0,
+                "state": "medium",
+                "unit": "minute",
+                "value": 791.0
+            },
+            {
+                "goal": 10,
+                "id": "959ef97c-e97a-576a-a5eb-f3059d24dd89",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "activity"
+        ],
+        "scoreDateTime": "2024-06-03T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.437Z",
+        "version": 1.0
+    },
+    {
+        "id": "e76b2c66-facb-41f2-8cfe-af52dfe237e1",
+        "requestId": "f0b0b5fa-2ee3-4677-b341-a93c1d74492f",
+        "profileId": "b36e89b1-6762-5e70-9c88-742359efd55c",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "sleep",
+        "score": 0.97,
+        "state": "high",
+        "factors": [
+            {
+                "goal": 480,
+                "id": "b04c4d4c-03aa-5cb6-94dd-92d9aa617474",
+                "name": "sleep_duration",
+                "score": 0.99,
+                "state": "high",
+                "unit": "minute",
+                "value": 470.0
+            },
+            {
+                "goal": 1,
+                "id": "038dd698-1b5d-5f8b-a67b-0d68191b3f04",
+                "name": "sleep_regularity",
+                "score": 1.0,
+                "state": "high",
+                "unit": "index",
+                "value": 0.999
+            },
+            {
+                "goal": 10,
+                "id": "212b54b4-6578-5f35-b82a-b07d4cfb19c3",
+                "name": "sleep_continuity",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 0,
+                "id": "cf25f013-48fc-585f-b0eb-693d5a679a27",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "95362056-cf6d-5855-a530-9fe5bc0d721f",
+                "name": "circadian_alignment",
+                "score": 0.82,
+                "state": "medium",
+                "unit": "minute",
+                "value": 112.0
+            },
+            {
+                "goal": 90,
+                "id": "fa2e3a21-3031-5483-8db4-360d901d1eb4",
+                "name": "physical_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 120,
+                "id": "bfb8dbbc-1c54-5e12-9da6-7cf86dd8055e",
+                "name": "mental_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-03T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.687Z",
+        "version": 1.0
+    },
+    {
+        "id": "45027793-8abc-4d83-ae85-150d38963888",
+        "requestId": "26ed2bc5-d9cb-46be-968e-016d6eb1375c",
+        "profileId": "a6767532-713d-5736-8b54-13b586429273",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "wellbeing",
+        "score": 0.79,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "49e65833-7b6e-5ba8-a4dc-32b7c0359f86",
+                "name": "steps",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "count",
+                "value": 5962.0
+            },
+            {
+                "goal": 10,
+                "id": "dab7f66b-403e-5255-b876-33d3459012ab",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 11.0
+            },
+            {
+                "goal": 500,
+                "id": "fec5f8b0-b910-5bf8-a364-1789d08752ff",
+                "name": "active_calories",
+                "score": 0.32,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 94.0
+            },
+            {
+                "goal": 30,
+                "id": "0f1d2c0c-f978-54a8-8804-8abb195a8851",
+                "name": "intense_activity_duration",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "6be65a70-5679-5885-ba0f-bdffd8f59cb7",
+                "name": "extended_inactivity",
+                "score": 0.54,
+                "state": "high",
+                "unit": "minute",
+                "value": 453.0
+            },
+            {
+                "goal": 10,
+                "id": "8aec57eb-c5ad-5b45-abaf-c29f94828572",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "9101caf0-48bf-547e-8744-01e624273304",
+                "name": "sleep_duration",
+                "score": 0.88,
+                "state": "high",
+                "unit": "minute",
+                "value": 432.0
+            },
+            {
+                "goal": 1,
+                "id": "c6e48486-e6cc-5548-b16d-23003934b243",
+                "name": "sleep_regularity",
+                "score": 0.91,
+                "state": "high",
+                "unit": "index",
+                "value": 0.909
+            },
+            {
+                "goal": 10,
+                "id": "20667c2e-39b3-5138-a81c-8154f7edab8e",
+                "name": "sleep_continuity",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "minute",
+                "value": 38.0
+            },
+            {
+                "goal": 0,
+                "id": "d9602740-c3e0-5a7a-bf68-06757902ffde",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "af76a519-a1d0-5133-8f40-87baedd2363e",
+                "name": "circadian_alignment",
+                "score": 0.47,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 433.6833333333
+            },
+            {
+                "goal": 90,
+                "id": "9145b4e5-ea1b-569c-8cc8-4e8a1c5f310c",
+                "name": "physical_recovery",
+                "score": 1.0,
+                "state": "high",
+                "unit": "minute",
+                "value": 107.0
+            },
+            {
+                "goal": 120,
+                "id": "315b8748-68a1-5bb0-9f2e-709bff476c4a",
+                "name": "mental_recovery",
+                "score": 0.9,
+                "state": "high",
+                "unit": "minute",
+                "value": 103.0
+            }
+        ],
+        "dataSources": [
+            "activity",
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-04T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.440Z",
+        "version": 1.0
+    },
+    {
+        "id": "8de1c681-065e-4fbd-a571-a20702aae570",
+        "requestId": "93218185-2c62-45f6-9de0-4385dc0fcd66",
+        "profileId": "c972f033-d749-522d-921c-813f616386b2",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "activity",
+        "score": 0.66,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "d97a8f32-3abc-5e3f-a868-50d95edb5c7f",
+                "name": "steps",
+                "score": 0.7,
+                "state": "low",
+                "unit": "count",
+                "value": 3908.0
+            },
+            {
+                "goal": 10,
+                "id": "2e0ab928-1796-58b4-86d1-4d2f8b638eed",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 10.0
+            },
+            {
+                "goal": 500,
+                "id": "ce66827a-40ad-52bd-aa84-19db9ab8b681",
+                "name": "active_calories",
+                "score": 0.29,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 80.0
+            },
+            {
+                "goal": 30,
+                "id": "d0ab4338-e5b3-580e-b038-6b4044918387",
+                "name": "intense_activity_duration",
+                "score": 0.3,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 0.0
+            },
+            {
+                "goal": 480,
+                "id": "342eb7c7-f243-5c56-b5e3-b6e4b33ef2bd",
+                "name": "extended_inactivity",
+                "score": 1.0,
+                "state": "medium",
+                "unit": "minute",
+                "value": 791.0
+            },
+            {
+                "goal": 10,
+                "id": "959ef97c-e97a-576a-a5eb-f3059d24dd89",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "activity"
+        ],
+        "scoreDateTime": "2024-06-04T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.437Z",
+        "version": 1.0
+    },
+    {
+        "id": "d2b8e4ef-6d19-400f-b99a-1b238e6a7c57",
+        "requestId": "f0b0b5fa-2ee3-4677-b341-a93c1d74492f",
+        "profileId": "b36e89b1-6762-5e70-9c88-742359efd55c",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "sleep",
+        "score": 0.97,
+        "state": "high",
+        "factors": [
+            {
+                "goal": 480,
+                "id": "b04c4d4c-03aa-5cb6-94dd-92d9aa617474",
+                "name": "sleep_duration",
+                "score": 0.99,
+                "state": "high",
+                "unit": "minute",
+                "value": 470.0
+            },
+            {
+                "goal": 1,
+                "id": "038dd698-1b5d-5f8b-a67b-0d68191b3f04",
+                "name": "sleep_regularity",
+                "score": 1.0,
+                "state": "high",
+                "unit": "index",
+                "value": 0.999
+            },
+            {
+                "goal": 10,
+                "id": "212b54b4-6578-5f35-b82a-b07d4cfb19c3",
+                "name": "sleep_continuity",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 0,
+                "id": "cf25f013-48fc-585f-b0eb-693d5a679a27",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "95362056-cf6d-5855-a530-9fe5bc0d721f",
+                "name": "circadian_alignment",
+                "score": 0.82,
+                "state": "medium",
+                "unit": "minute",
+                "value": 112.0
+            },
+            {
+                "goal": 90,
+                "id": "fa2e3a21-3031-5483-8db4-360d901d1eb4",
+                "name": "physical_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 120,
+                "id": "bfb8dbbc-1c54-5e12-9da6-7cf86dd8055e",
+                "name": "mental_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-04T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.687Z",
+        "version": 1.0
+    },
+    {
+        "id": "480b552a-819d-4880-aa51-c413a85cdfce",
+        "requestId": "26ed2bc5-d9cb-46be-968e-016d6eb1375c",
+        "profileId": "a6767532-713d-5736-8b54-13b586429273",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "wellbeing",
+        "score": 0.79,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "49e65833-7b6e-5ba8-a4dc-32b7c0359f86",
+                "name": "steps",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "count",
+                "value": 5962.0
+            },
+            {
+                "goal": 10,
+                "id": "dab7f66b-403e-5255-b876-33d3459012ab",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 11.0
+            },
+            {
+                "goal": 500,
+                "id": "fec5f8b0-b910-5bf8-a364-1789d08752ff",
+                "name": "active_calories",
+                "score": 0.32,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 94.0
+            },
+            {
+                "goal": 30,
+                "id": "0f1d2c0c-f978-54a8-8804-8abb195a8851",
+                "name": "intense_activity_duration",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "6be65a70-5679-5885-ba0f-bdffd8f59cb7",
+                "name": "extended_inactivity",
+                "score": 0.54,
+                "state": "high",
+                "unit": "minute",
+                "value": 453.0
+            },
+            {
+                "goal": 10,
+                "id": "8aec57eb-c5ad-5b45-abaf-c29f94828572",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "9101caf0-48bf-547e-8744-01e624273304",
+                "name": "sleep_duration",
+                "score": 0.88,
+                "state": "high",
+                "unit": "minute",
+                "value": 432.0
+            },
+            {
+                "goal": 1,
+                "id": "c6e48486-e6cc-5548-b16d-23003934b243",
+                "name": "sleep_regularity",
+                "score": 0.91,
+                "state": "high",
+                "unit": "index",
+                "value": 0.909
+            },
+            {
+                "goal": 10,
+                "id": "20667c2e-39b3-5138-a81c-8154f7edab8e",
+                "name": "sleep_continuity",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "minute",
+                "value": 38.0
+            },
+            {
+                "goal": 0,
+                "id": "d9602740-c3e0-5a7a-bf68-06757902ffde",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "af76a519-a1d0-5133-8f40-87baedd2363e",
+                "name": "circadian_alignment",
+                "score": 0.47,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 433.6833333333
+            },
+            {
+                "goal": 90,
+                "id": "9145b4e5-ea1b-569c-8cc8-4e8a1c5f310c",
+                "name": "physical_recovery",
+                "score": 1.0,
+                "state": "high",
+                "unit": "minute",
+                "value": 107.0
+            },
+            {
+                "goal": 120,
+                "id": "315b8748-68a1-5bb0-9f2e-709bff476c4a",
+                "name": "mental_recovery",
+                "score": 0.9,
+                "state": "high",
+                "unit": "minute",
+                "value": 103.0
+            }
+        ],
+        "dataSources": [
+            "activity",
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-05T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.440Z",
+        "version": 1.0
+    },
+    {
+        "id": "73589c92-19f7-4113-8c0c-4a46c0fbbc48",
+        "requestId": "93218185-2c62-45f6-9de0-4385dc0fcd66",
+        "profileId": "c972f033-d749-522d-921c-813f616386b2",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "activity",
+        "score": 0.66,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "d97a8f32-3abc-5e3f-a868-50d95edb5c7f",
+                "name": "steps",
+                "score": 0.7,
+                "state": "low",
+                "unit": "count",
+                "value": 3908.0
+            },
+            {
+                "goal": 10,
+                "id": "2e0ab928-1796-58b4-86d1-4d2f8b638eed",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 10.0
+            },
+            {
+                "goal": 500,
+                "id": "ce66827a-40ad-52bd-aa84-19db9ab8b681",
+                "name": "active_calories",
+                "score": 0.29,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 80.0
+            },
+            {
+                "goal": 30,
+                "id": "d0ab4338-e5b3-580e-b038-6b4044918387",
+                "name": "intense_activity_duration",
+                "score": 0.3,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 0.0
+            },
+            {
+                "goal": 480,
+                "id": "342eb7c7-f243-5c56-b5e3-b6e4b33ef2bd",
+                "name": "extended_inactivity",
+                "score": 1.0,
+                "state": "medium",
+                "unit": "minute",
+                "value": 791.0
+            },
+            {
+                "goal": 10,
+                "id": "959ef97c-e97a-576a-a5eb-f3059d24dd89",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "activity"
+        ],
+        "scoreDateTime": "2024-06-05T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.437Z",
+        "version": 1.0
+    },
+    {
+        "id": "1df8e0cc-f0ab-4564-9119-82a5c796f101",
+        "requestId": "f0b0b5fa-2ee3-4677-b341-a93c1d74492f",
+        "profileId": "b36e89b1-6762-5e70-9c88-742359efd55c",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "sleep",
+        "score": 0.97,
+        "state": "high",
+        "factors": [
+            {
+                "goal": 480,
+                "id": "b04c4d4c-03aa-5cb6-94dd-92d9aa617474",
+                "name": "sleep_duration",
+                "score": 0.99,
+                "state": "high",
+                "unit": "minute",
+                "value": 470.0
+            },
+            {
+                "goal": 1,
+                "id": "038dd698-1b5d-5f8b-a67b-0d68191b3f04",
+                "name": "sleep_regularity",
+                "score": 1.0,
+                "state": "high",
+                "unit": "index",
+                "value": 0.999
+            },
+            {
+                "goal": 10,
+                "id": "212b54b4-6578-5f35-b82a-b07d4cfb19c3",
+                "name": "sleep_continuity",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 0,
+                "id": "cf25f013-48fc-585f-b0eb-693d5a679a27",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "95362056-cf6d-5855-a530-9fe5bc0d721f",
+                "name": "circadian_alignment",
+                "score": 0.82,
+                "state": "medium",
+                "unit": "minute",
+                "value": 112.0
+            },
+            {
+                "goal": 90,
+                "id": "fa2e3a21-3031-5483-8db4-360d901d1eb4",
+                "name": "physical_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 120,
+                "id": "bfb8dbbc-1c54-5e12-9da6-7cf86dd8055e",
+                "name": "mental_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-05T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.687Z",
+        "version": 1.0
+    },
+    {
+        "id": "95a63151-80d2-4d98-a570-cb112eb15e33",
+        "requestId": "26ed2bc5-d9cb-46be-968e-016d6eb1375c",
+        "profileId": "a6767532-713d-5736-8b54-13b586429273",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "wellbeing",
+        "score": 0.79,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "49e65833-7b6e-5ba8-a4dc-32b7c0359f86",
+                "name": "steps",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "count",
+                "value": 5962.0
+            },
+            {
+                "goal": 10,
+                "id": "dab7f66b-403e-5255-b876-33d3459012ab",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 11.0
+            },
+            {
+                "goal": 500,
+                "id": "fec5f8b0-b910-5bf8-a364-1789d08752ff",
+                "name": "active_calories",
+                "score": 0.32,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 94.0
+            },
+            {
+                "goal": 30,
+                "id": "0f1d2c0c-f978-54a8-8804-8abb195a8851",
+                "name": "intense_activity_duration",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "6be65a70-5679-5885-ba0f-bdffd8f59cb7",
+                "name": "extended_inactivity",
+                "score": 0.54,
+                "state": "high",
+                "unit": "minute",
+                "value": 453.0
+            },
+            {
+                "goal": 10,
+                "id": "8aec57eb-c5ad-5b45-abaf-c29f94828572",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "9101caf0-48bf-547e-8744-01e624273304",
+                "name": "sleep_duration",
+                "score": 0.88,
+                "state": "high",
+                "unit": "minute",
+                "value": 432.0
+            },
+            {
+                "goal": 1,
+                "id": "c6e48486-e6cc-5548-b16d-23003934b243",
+                "name": "sleep_regularity",
+                "score": 0.91,
+                "state": "high",
+                "unit": "index",
+                "value": 0.909
+            },
+            {
+                "goal": 10,
+                "id": "20667c2e-39b3-5138-a81c-8154f7edab8e",
+                "name": "sleep_continuity",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "minute",
+                "value": 38.0
+            },
+            {
+                "goal": 0,
+                "id": "d9602740-c3e0-5a7a-bf68-06757902ffde",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "af76a519-a1d0-5133-8f40-87baedd2363e",
+                "name": "circadian_alignment",
+                "score": 0.47,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 433.6833333333
+            },
+            {
+                "goal": 90,
+                "id": "9145b4e5-ea1b-569c-8cc8-4e8a1c5f310c",
+                "name": "physical_recovery",
+                "score": 1.0,
+                "state": "high",
+                "unit": "minute",
+                "value": 107.0
+            },
+            {
+                "goal": 120,
+                "id": "315b8748-68a1-5bb0-9f2e-709bff476c4a",
+                "name": "mental_recovery",
+                "score": 0.9,
+                "state": "high",
+                "unit": "minute",
+                "value": 103.0
+            }
+        ],
+        "dataSources": [
+            "activity",
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-06T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.440Z",
+        "version": 1.0
+    },
+    {
+        "id": "50b450c4-dd9f-4394-a165-fea78a9f207d",
+        "requestId": "93218185-2c62-45f6-9de0-4385dc0fcd66",
+        "profileId": "c972f033-d749-522d-921c-813f616386b2",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "activity",
+        "score": 0.66,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "d97a8f32-3abc-5e3f-a868-50d95edb5c7f",
+                "name": "steps",
+                "score": 0.7,
+                "state": "low",
+                "unit": "count",
+                "value": 3908.0
+            },
+            {
+                "goal": 10,
+                "id": "2e0ab928-1796-58b4-86d1-4d2f8b638eed",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 10.0
+            },
+            {
+                "goal": 500,
+                "id": "ce66827a-40ad-52bd-aa84-19db9ab8b681",
+                "name": "active_calories",
+                "score": 0.29,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 80.0
+            },
+            {
+                "goal": 30,
+                "id": "d0ab4338-e5b3-580e-b038-6b4044918387",
+                "name": "intense_activity_duration",
+                "score": 0.3,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 0.0
+            },
+            {
+                "goal": 480,
+                "id": "342eb7c7-f243-5c56-b5e3-b6e4b33ef2bd",
+                "name": "extended_inactivity",
+                "score": 1.0,
+                "state": "medium",
+                "unit": "minute",
+                "value": 791.0
+            },
+            {
+                "goal": 10,
+                "id": "959ef97c-e97a-576a-a5eb-f3059d24dd89",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "activity"
+        ],
+        "scoreDateTime": "2024-06-06T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.437Z",
+        "version": 1.0
+    },
+    {
+        "id": "a0518114-4c56-40c6-ba4b-36e1003338ec",
+        "requestId": "f0b0b5fa-2ee3-4677-b341-a93c1d74492f",
+        "profileId": "b36e89b1-6762-5e70-9c88-742359efd55c",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "sleep",
+        "score": 0.97,
+        "state": "high",
+        "factors": [
+            {
+                "goal": 480,
+                "id": "b04c4d4c-03aa-5cb6-94dd-92d9aa617474",
+                "name": "sleep_duration",
+                "score": 0.99,
+                "state": "high",
+                "unit": "minute",
+                "value": 470.0
+            },
+            {
+                "goal": 1,
+                "id": "038dd698-1b5d-5f8b-a67b-0d68191b3f04",
+                "name": "sleep_regularity",
+                "score": 1.0,
+                "state": "high",
+                "unit": "index",
+                "value": 0.999
+            },
+            {
+                "goal": 10,
+                "id": "212b54b4-6578-5f35-b82a-b07d4cfb19c3",
+                "name": "sleep_continuity",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 0,
+                "id": "cf25f013-48fc-585f-b0eb-693d5a679a27",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "95362056-cf6d-5855-a530-9fe5bc0d721f",
+                "name": "circadian_alignment",
+                "score": 0.82,
+                "state": "medium",
+                "unit": "minute",
+                "value": 112.0
+            },
+            {
+                "goal": 90,
+                "id": "fa2e3a21-3031-5483-8db4-360d901d1eb4",
+                "name": "physical_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 120,
+                "id": "bfb8dbbc-1c54-5e12-9da6-7cf86dd8055e",
+                "name": "mental_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-06T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.687Z",
+        "version": 1.0
+    },
+    {
+        "id": "17a44a9a-e5e9-4e76-bd8c-648eda0cc4db",
+        "requestId": "26ed2bc5-d9cb-46be-968e-016d6eb1375c",
+        "profileId": "a6767532-713d-5736-8b54-13b586429273",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "wellbeing",
+        "score": 0.79,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "49e65833-7b6e-5ba8-a4dc-32b7c0359f86",
+                "name": "steps",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "count",
+                "value": 5962.0
+            },
+            {
+                "goal": 10,
+                "id": "dab7f66b-403e-5255-b876-33d3459012ab",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 11.0
+            },
+            {
+                "goal": 500,
+                "id": "fec5f8b0-b910-5bf8-a364-1789d08752ff",
+                "name": "active_calories",
+                "score": 0.32,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 94.0
+            },
+            {
+                "goal": 30,
+                "id": "0f1d2c0c-f978-54a8-8804-8abb195a8851",
+                "name": "intense_activity_duration",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "6be65a70-5679-5885-ba0f-bdffd8f59cb7",
+                "name": "extended_inactivity",
+                "score": 0.54,
+                "state": "high",
+                "unit": "minute",
+                "value": 453.0
+            },
+            {
+                "goal": 10,
+                "id": "8aec57eb-c5ad-5b45-abaf-c29f94828572",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            },
+            {
+                "goal": 480,
+                "id": "9101caf0-48bf-547e-8744-01e624273304",
+                "name": "sleep_duration",
+                "score": 0.88,
+                "state": "high",
+                "unit": "minute",
+                "value": 432.0
+            },
+            {
+                "goal": 1,
+                "id": "c6e48486-e6cc-5548-b16d-23003934b243",
+                "name": "sleep_regularity",
+                "score": 0.91,
+                "state": "high",
+                "unit": "index",
+                "value": 0.909
+            },
+            {
+                "goal": 10,
+                "id": "20667c2e-39b3-5138-a81c-8154f7edab8e",
+                "name": "sleep_continuity",
+                "score": 0.83,
+                "state": "medium",
+                "unit": "minute",
+                "value": 38.0
+            },
+            {
+                "goal": 0,
+                "id": "d9602740-c3e0-5a7a-bf68-06757902ffde",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "af76a519-a1d0-5133-8f40-87baedd2363e",
+                "name": "circadian_alignment",
+                "score": 0.47,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 433.6833333333
+            },
+            {
+                "goal": 90,
+                "id": "9145b4e5-ea1b-569c-8cc8-4e8a1c5f310c",
+                "name": "physical_recovery",
+                "score": 1.0,
+                "state": "high",
+                "unit": "minute",
+                "value": 107.0
+            },
+            {
+                "goal": 120,
+                "id": "315b8748-68a1-5bb0-9f2e-709bff476c4a",
+                "name": "mental_recovery",
+                "score": 0.9,
+                "state": "high",
+                "unit": "minute",
+                "value": 103.0
+            }
+        ],
+        "dataSources": [
+            "activity",
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-07T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.440Z",
+        "version": 1.0
+    },
+    {
+        "id": "899e3bb0-a19f-4ae0-96fb-7f0b47bd5979",
+        "requestId": "93218185-2c62-45f6-9de0-4385dc0fcd66",
+        "profileId": "c972f033-d749-522d-921c-813f616386b2",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "activity",
+        "score": 0.66,
+        "state": "medium",
+        "factors": [
+            {
+                "goal": 10000,
+                "id": "d97a8f32-3abc-5e3f-a868-50d95edb5c7f",
+                "name": "steps",
+                "score": 0.7,
+                "state": "low",
+                "unit": "count",
+                "value": 3908.0
+            },
+            {
+                "goal": 10,
+                "id": "2e0ab928-1796-58b4-86d1-4d2f8b638eed",
+                "name": "active_hours",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 10.0
+            },
+            {
+                "goal": 500,
+                "id": "ce66827a-40ad-52bd-aa84-19db9ab8b681",
+                "name": "active_calories",
+                "score": 0.29,
+                "state": "minimal",
+                "unit": "kcal",
+                "value": 80.0
+            },
+            {
+                "goal": 30,
+                "id": "d0ab4338-e5b3-580e-b038-6b4044918387",
+                "name": "intense_activity_duration",
+                "score": 0.3,
+                "state": "minimal",
+                "unit": "minute",
+                "value": 0.0
+            },
+            {
+                "goal": 480,
+                "id": "342eb7c7-f243-5c56-b5e3-b6e4b33ef2bd",
+                "name": "extended_inactivity",
+                "score": 1.0,
+                "state": "medium",
+                "unit": "minute",
+                "value": 791.0
+            },
+            {
+                "goal": 10,
+                "id": "959ef97c-e97a-576a-a5eb-f3059d24dd89",
+                "name": "floors_climbed",
+                "score": null,
+                "state": null,
+                "unit": "count",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "activity"
+        ],
+        "scoreDateTime": "2024-06-07T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.437Z",
+        "version": 1.0
+    },
+    {
+        "id": "476b092f-74af-41af-ac3e-72bd02a0fd49",
+        "requestId": "f0b0b5fa-2ee3-4677-b341-a93c1d74492f",
+        "profileId": "b36e89b1-6762-5e70-9c88-742359efd55c",
+        "accountId": "019d6834-dffd-45dc-851a-5139f183c416",
+        "externalId": "4d6a5fc0",
+        "type": "sleep",
+        "score": 0.97,
+        "state": "high",
+        "factors": [
+            {
+                "goal": 480,
+                "id": "b04c4d4c-03aa-5cb6-94dd-92d9aa617474",
+                "name": "sleep_duration",
+                "score": 0.99,
+                "state": "high",
+                "unit": "minute",
+                "value": 470.0
+            },
+            {
+                "goal": 1,
+                "id": "038dd698-1b5d-5f8b-a67b-0d68191b3f04",
+                "name": "sleep_regularity",
+                "score": 1.0,
+                "state": "high",
+                "unit": "index",
+                "value": 0.999
+            },
+            {
+                "goal": 10,
+                "id": "212b54b4-6578-5f35-b82a-b07d4cfb19c3",
+                "name": "sleep_continuity",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 0,
+                "id": "cf25f013-48fc-585f-b0eb-693d5a679a27",
+                "name": "sleep_debt",
+                "score": 1.0,
+                "state": "high",
+                "unit": "hour",
+                "value": 0.0
+            },
+            {
+                "goal": 30,
+                "id": "95362056-cf6d-5855-a530-9fe5bc0d721f",
+                "name": "circadian_alignment",
+                "score": 0.82,
+                "state": "medium",
+                "unit": "minute",
+                "value": 112.0
+            },
+            {
+                "goal": 90,
+                "id": "fa2e3a21-3031-5483-8db4-360d901d1eb4",
+                "name": "physical_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            },
+            {
+                "goal": 120,
+                "id": "bfb8dbbc-1c54-5e12-9da6-7cf86dd8055e",
+                "name": "mental_recovery",
+                "score": null,
+                "state": null,
+                "unit": "minute",
+                "value": null
+            }
+        ],
+        "dataSources": [
+            "sleep"
+        ],
+        "scoreDateTime": "2024-06-07T00:00:00",
+        "createdAt": "2024-06-08T00:10:07.687Z",
+        "version": 1.0
+    }
+]

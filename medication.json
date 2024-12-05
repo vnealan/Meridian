@@ -1,0 +1,153 @@
+{
+    "medications": {
+      "prescriptionMeds": [
+        {
+          "name": "Duloxetine",
+          "brandName": "Cymbalta",
+          "dosage": "60",
+          "unit": "mg",
+          "frequency": "once daily",
+          "timing": "morning",
+          "purpose": "pain management and mood",
+          "instructions": "Take with food",
+          "prescribedBy": "Dr. Smith",
+          "startDate": "2024-01-15",
+          "reviewDate": "2024-07-15"
+        },{
+          "name": "Abilify",
+          "brandName": "Abilify",
+          "dosage": "60",
+          "unit": "mg",
+          "frequency": "once daily",
+          "timing": "morning",
+          "purpose": "pain management and mood",
+          "instructions": "Take with food",
+          "prescribedBy": "Dr. Smith",
+          "startDate": "2024-01-15",
+          "reviewDate": "2024-07-15"
+        },
+        {
+          "name": "Pemoline",
+          "brandName": "Provigil",
+          "dosage": "100",
+          "unit": "mg",
+          "frequency": "once daily",
+          "timing": "early morning",
+          "purpose": "daytime wakefulness",
+          "instructions": "Take on empty stomach",
+          "prescribedBy": "Dr. Smith",
+          "startDate": "2024-02-01",
+          "reviewDate": "2024-05-01"
+        },
+        {
+          "name": "Amitriptyline",
+          "brandName": "Elavil",
+          "dosage": "10",
+          "unit": "mg",
+          "frequency": "once daily",
+          "timing": "bedtime",
+          "purpose": "sleep and pain",
+          "instructions": "Take 2 hours before bedtime",
+          "prescribedBy": "Dr. Smith",
+          "startDate": "2024-01-15",
+          "reviewDate": "2024-04-15"
+        }
+      ],
+      "supplements": [
+        {
+          "name": "Vitamin D3",
+          "dosage": "4000",
+          "unit": "IU",
+          "frequency": "once daily",
+          "timing": "morning",
+          "purpose": "immune support",
+          "instructions": "Take with fatty meal"
+        },
+        {
+          "name": "Vitamin B12",
+          "dosage": "1000",
+          "unit": "mcg",
+          "frequency": "once daily",
+          "timing": "morning",
+          "purpose": "energy support",
+          "instructions": "Take on empty stomach"
+        },
+        {
+          "name": "Magnesium Glycinate",
+          "dosage": "400",
+          "unit": "mg",
+          "frequency": "once daily",
+          "timing": "evening",
+          "purpose": "muscle relaxation",
+          "instructions": "Take with dinner"
+        },
+        {
+          "name": "Iron Bisglycinate",
+          "dosage": "25",
+          "unit": "mg",
+          "frequency": "once daily",
+          "timing": "morning",
+          "purpose": "energy support",
+          "instructions": "Take on empty stomach, 2 hours away from calcium"
+        }
+      ],
+      "asNeeded": [
+        {
+          "name": "Ibuprofen",
+          "brandName": "Advil",
+          "dosage": "400",
+          "unit": "mg",
+          "maxFrequency": "3 times daily",
+          "purpose": "pain relief",
+          "instructions": "Take with food, maximum 1200mg per day",
+          "contraindications": "Avoid if stomach sensitive"
+        }
+      ],
+      "schedule": {
+        "earlyMorning": {
+          "time": "06:00",
+          "medications": ["Modafinil"]
+        },
+        "morning": {
+          "time": "08:00",
+          "medications": ["Duloxetine", "Vitamin D3", "Vitamin B12", "Iron Bisglycinate"]
+        },
+        "evening": {
+          "time": "18:00",
+          "medications": ["Magnesium Glycinate"]
+        },
+        "bedtime": {
+          "time": "21:00",
+          "medications": ["Amitriptyline"]
+        }
+      },
+      "monitoring": {
+        "requiredTests": [
+          {
+            "name": "Complete Blood Count",
+            "frequency": "Every 6 months"
+          },
+          {
+            "name": "Iron Studies",
+            "frequency": "Every 6 months"
+          },
+          {
+            "name": "Vitamin D Levels",
+            "frequency": "Every 6 months"
+          },
+          {
+            "name": "Liver Function",
+            "frequency": "Every 6 months"
+          }
+        ],
+        "sideEffectsToWatch": [
+          "Drowsiness",
+          "Dry mouth",
+          "Dizziness",
+          "Nausea",
+          "Changes in appetite",
+          "Changes in sleep patterns"
+        ]
+      }
+    }
+  }
